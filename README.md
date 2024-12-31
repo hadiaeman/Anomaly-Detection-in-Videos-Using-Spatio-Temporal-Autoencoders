@@ -6,6 +6,7 @@
  and analyzing reconstruction errors, the model identifies patterns that
  deviate from expected behavior.
  2. SPATIO-TEMPORAL AUTOENCODERS
+    
  2.1 CONCEPT OVERVIEW
  1.
  A spatio-temporal autoencoder is a neural network architecture designed
@@ -22,6 +23,7 @@
  Normal patterns (e.g., pedestrian motion) are reconstructed accurately.
  Abnormal patterns (e.g., sudden accidents) result in higher
  reconstruction errors.
+ 
  2.2 PROJECT WORKING
  Input Representation:
  The model processes sequences of video frames (spatio-temporal data)
